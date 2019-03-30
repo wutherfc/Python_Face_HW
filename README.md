@@ -1,5 +1,4 @@
 # HW for Python using API from Face++
-***
 *需要从[Face++](https://console.faceplusplus.com.cn/documents/)上获取key与secret*
 # 功能和使用说明 
 本程序通过调用Face++的4个API，并使用PYQT5以GUI界面的形式呈现，实现了
